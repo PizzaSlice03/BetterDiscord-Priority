@@ -4,12 +4,11 @@
 // @author       22ra
 // @version      0.0.1
 // @source       https://github.com/PizzaSlice03/BetterDiscord-Priority
-// @updateURL    https://your-update-link
-// @downloadURL  https://your-download-link
-// @website      https://your-website
-// @invite       your-invite-link
-// @authorId     your-author-id
-// @supportURL   https://your-support-link
+// @updateURL    https://github.com/PizzaSlice03/BetterDiscord-Priority/releases
+// @downloadURL  https://github.com/PizzaSlice03/BetterDiscord-Priority/releases/tag/discord
+// @invite       https://discord.gg/7xjbrzS6eG
+// @authorId     1276403587689480294
+// @supportURL   https://discord.gg/7xjbrzS6eG
 //META
 
 (async () => {
